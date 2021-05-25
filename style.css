@@ -42,7 +42,7 @@ body{
 /* end of navbar */
 header{
     height: 100vh;
-    background: url(images/header.jpg) fixed;
+    background: url(images/header.jpeg) fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
