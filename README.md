@@ -5,4 +5,5 @@ It has the following sections :
 - Skills
 - About 
 - Contact Us
+
 [Deployed Site](https://trip0le.github.io/CoffeeShop/)
